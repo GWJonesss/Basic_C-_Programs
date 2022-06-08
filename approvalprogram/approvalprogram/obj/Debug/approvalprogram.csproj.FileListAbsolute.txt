@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\bin\Debug\approvalprogram.exe.config
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\bin\Debug\approvalprogram.exe
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\bin\Debug\approvalprogram.pdb
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\obj\Debug\approvalprogram.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\obj\Debug\approvalprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\obj\Debug\approvalprogram.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\obj\Debug\approvalprogram.exe
+C:\Users\16083\School\Basic_C-_Programs\approvalprogram\approvalprogram\obj\Debug\approvalprogram.pdb

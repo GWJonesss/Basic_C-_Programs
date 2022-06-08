@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\bin\Debug\AICP.exe.config
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\bin\Debug\AICP.exe
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\bin\Debug\AICP.pdb
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\obj\Debug\AICP.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\obj\Debug\AICP.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\obj\Debug\AICP.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\obj\Debug\AICP.exe
+C:\Users\16083\School\Basic_C-_Programs\AICP\AICP\obj\Debug\AICP.pdb

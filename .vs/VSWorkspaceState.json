@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AICP",
+    "\\AICP\\AICP",
+    "\\approvalprogram",
+    "\\approvalprogram\\approvalprogram"
   ],
-  "SelectedNode": "\\AICP.cs",
+  "SelectedNode": "\\approvalprogram\\approvalprogram\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

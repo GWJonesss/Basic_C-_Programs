@@ -18,26 +18,37 @@ namespace Package_Express
 
             Console.WriteLine("Please enter the package weight:");
             int weight = Convert.ToInt32(Console.ReadLine());
-            if (weight > 50) {
+            if (weight > 50)
+            {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
-                Console.ReadLine();
-                System.Threading.Thread.Sleep(3000);
-                Environment.Exit(0);
+
             }
             else
-            Console.WriteLine("Please enter the package width:");
-            int width = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please enter the package height:");
-            int height = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please enter the package length:");
-            int length = Convert.ToInt32(Console.ReadLine());
+            {
+                Console.WriteLine("Please enter the package width:");
+                int width = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the package height:");
+                int height = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Please enter the package length:");
+                int length = Convert.ToInt32(Console.ReadLine()); 
 
-            int area = width * height * length;
-            int total = (area * weight) / 100;
+                if (width + height + length > 50) // used '+' opperator , but if total ment to multiply and not add you can use '*' opperator.
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    int area = width * height * length;
+                    int total = (area * weight) / 100;
 
-            Console.WriteLine("Your estimated total for shipping this package is: $" + total + ".00, Thank you!");
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + total + ".00, Thank you!");
+                }
+            }
 
-            Console.ReadLine();
+
+
+
+                Console.ReadLine();
 
 
 

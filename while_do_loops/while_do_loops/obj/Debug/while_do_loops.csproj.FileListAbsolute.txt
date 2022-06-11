@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\obj\Debug\while_do_loops.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\obj\Debug\while_do_loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\obj\Debug\while_do_loops.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\bin\Debug\while_do_loops.exe.config
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\bin\Debug\while_do_loops.exe
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\bin\Debug\while_do_loops.pdb
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\obj\Debug\while_do_loops.exe
+C:\Users\16083\School\Basic_C-_Programs\while_do_loops\while_do_loops\obj\Debug\while_do_loops.pdb

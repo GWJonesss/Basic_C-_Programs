@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe.config
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\bin\Debug\Try_Catch_Assignment.pdb
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\Try_Catch_Assignment\Try_Catch_Assignment\obj\Debug\Try_Catch_Assignment.pdb

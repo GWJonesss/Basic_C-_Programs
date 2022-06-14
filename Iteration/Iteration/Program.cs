@@ -45,10 +45,10 @@ namespace Iteration
             //{
             //    if (score > 85)
             //        Console.WriteLine("Passing test score " + score);
-            //}
+            //}List<string> names = new List<string> () 
             //Console.ReadLine();
 
-            //List<string> names = new List<string> () {"Jesse", "Erik", "Adam", "Daniel" };
+            //{"Jesse", "Erik", "Adam", "Daniel" };
 
             //    foreach (string name in names)
             //    {

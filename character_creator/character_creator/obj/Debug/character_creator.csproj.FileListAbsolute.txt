@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\obj\Debug\character_creator.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\obj\Debug\character_creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\obj\Debug\character_creator.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\bin\Debug\character_creator.exe.config
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\bin\Debug\character_creator.exe
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\bin\Debug\character_creator.pdb
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\obj\Debug\character_creator.exe
+C:\Users\16083\School\Basic_C-_Programs\character_creator\character_creator\obj\Debug\character_creator.pdb

@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\obj\Debug\arraysAndLists.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\obj\Debug\arraysAndLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\obj\Debug\arraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\bin\Debug\testConsoleApp1.exe.config
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\bin\Debug\testConsoleApp1.exe
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\bin\Debug\testConsoleApp1.pdb
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\obj\Debug\testConsoleApp1.exe
+C:\Users\16083\School\Basic_C-_Programs\testConsoleApp1\testConsoleApp1\obj\Debug\testConsoleApp1.pdb

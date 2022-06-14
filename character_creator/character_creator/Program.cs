@@ -93,7 +93,7 @@ using System.Threading.Tasks;
         Console.WriteLine("\n" + "Your Character is a: " + ageList[A]+ " " +classType[X] + "\nWith a Strength Level of: " 
             +strengthLvl[Y] + "\nAnd an Dexterity Level of: " + D);
         Console.WriteLine("\nBecause of your age,\nYour Health Level is set to: " + H + 
-            "\nAnd Your Intelligence Level of: " + I);
+            "\nAnd Your Intelligence Level is: " + I);
 
 
 

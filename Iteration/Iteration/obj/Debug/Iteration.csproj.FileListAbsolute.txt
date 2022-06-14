@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\16083\School\Basic_C-_Programs\Iteration\Iteration\obj\Debug\Iteration.pdb

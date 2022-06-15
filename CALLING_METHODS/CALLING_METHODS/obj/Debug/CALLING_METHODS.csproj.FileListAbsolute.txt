@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\obj\Debug\CALLING_METHODS.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\obj\Debug\CALLING_METHODS.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\obj\Debug\CALLING_METHODS.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\bin\Debug\CALLING_METHODS.exe.config
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\bin\Debug\CALLING_METHODS.exe
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\bin\Debug\CALLING_METHODS.pdb
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\obj\Debug\CALLING_METHODS.exe
+C:\Users\16083\School\Basic_C-_Programs\CALLING_METHODS\CALLING_METHODS\obj\Debug\CALLING_METHODS.pdb

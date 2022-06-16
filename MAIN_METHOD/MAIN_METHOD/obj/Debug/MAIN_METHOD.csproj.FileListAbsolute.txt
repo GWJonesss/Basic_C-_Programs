@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\bin\Debug\MAIN_METHOD.exe.config
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\bin\Debug\MAIN_METHOD.exe
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\bin\Debug\MAIN_METHOD.pdb
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\obj\Debug\MAIN_METHOD.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\obj\Debug\MAIN_METHOD.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\obj\Debug\MAIN_METHOD.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\obj\Debug\MAIN_METHOD.exe
+C:\Users\16083\School\Basic_C-_Programs\MAIN_METHOD\MAIN_METHOD\obj\Debug\MAIN_METHOD.pdb

@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\bin\Debug\MSA.exe.config
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\bin\Debug\MSA.exe
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\bin\Debug\MSA.pdb
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\obj\Debug\MSA.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\obj\Debug\MSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\obj\Debug\MSA.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\obj\Debug\MSA.exe
+C:\Users\16083\School\Basic_C-_Programs\MSA\MSA\obj\Debug\MSA.pdb

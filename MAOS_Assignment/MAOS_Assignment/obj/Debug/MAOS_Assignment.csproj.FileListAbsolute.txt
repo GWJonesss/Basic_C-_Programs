@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\bin\Debug\MAOS_Assignment.exe.config
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\bin\Debug\MAOS_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\bin\Debug\MAOS_Assignment.pdb
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\obj\Debug\MAOS_Assignment.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\obj\Debug\MAOS_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\obj\Debug\MAOS_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\obj\Debug\MAOS_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\MAOS_Assignment\MAOS_Assignment\obj\Debug\MAOS_Assignment.pdb

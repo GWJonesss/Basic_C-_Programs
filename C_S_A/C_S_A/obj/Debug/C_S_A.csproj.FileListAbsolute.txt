@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\bin\Debug\C_S_A.exe.config
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\bin\Debug\C_S_A.exe
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\bin\Debug\C_S_A.pdb
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\obj\Debug\C_S_A.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\obj\Debug\C_S_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\obj\Debug\C_S_A.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\obj\Debug\C_S_A.exe
+C:\Users\16083\School\Basic_C-_Programs\C_S_A\C_S_A\obj\Debug\C_S_A.pdb

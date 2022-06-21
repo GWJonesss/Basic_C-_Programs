@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\bin\Debug\ACS_Assignment.exe.config
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\bin\Debug\ACS_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\bin\Debug\ACS_Assignment.pdb
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\obj\Debug\ACS_Assignment.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\obj\Debug\ACS_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\obj\Debug\ACS_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\obj\Debug\ACS_Assignment.exe
+C:\Users\16083\School\Basic_C-_Programs\ACS_Assignment\ACS_Assignment\obj\Debug\ACS_Assignment.pdb

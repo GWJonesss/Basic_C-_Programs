@@ -11,9 +11,10 @@ namespace TwentyOne
         static void Main(string[] args)
         {
             TwentyOneGame game = new TwentyOneGame();
-            game.Dealer = "Gabe";
-            game.Name = "TwentyOne";
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
+            Console.ReadLine();
+
 
             Deck deck = new Deck();
             

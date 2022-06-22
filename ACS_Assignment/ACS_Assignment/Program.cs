@@ -10,11 +10,22 @@ namespace ACS_Assignment
     {
         static void Main(string[] args)
         {
+
+
+            IQuittable emp1 = new Employee();
+
+            emp1.Quit();
+
+
             Employee employee = new Employee();
+
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
             Console.ReadLine();
+
+            
         }
+
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\Users\16083\School\Basic_C-_Programs\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb

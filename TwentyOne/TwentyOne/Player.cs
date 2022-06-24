@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Player<T>
+    public class Player
     {
-        public List<T> Hand { get; set; }
+        public List<string> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isAcivelyPlaying { get; set; }

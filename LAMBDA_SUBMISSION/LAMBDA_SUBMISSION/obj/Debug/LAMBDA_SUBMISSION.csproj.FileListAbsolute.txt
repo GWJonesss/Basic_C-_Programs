@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\obj\Debug\LAMBDA_SUBMISSION.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\obj\Debug\LAMBDA_SUBMISSION.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\obj\Debug\LAMBDA_SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\bin\Debug\LAMBDA_SUBMISSION.exe.config
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\bin\Debug\LAMBDA_SUBMISSION.exe
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\bin\Debug\LAMBDA_SUBMISSION.pdb
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\obj\Debug\LAMBDA_SUBMISSION.exe
+C:\Users\16083\School\Basic_C-_Programs\LAMBDA_SUBMISSION\LAMBDA_SUBMISSION\obj\Debug\LAMBDA_SUBMISSION.pdb

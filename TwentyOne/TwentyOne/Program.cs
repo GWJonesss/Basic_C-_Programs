@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,57 +11,28 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            //Console.WriteLine(underlyingValue);
-
-
-
-
-
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Jesse";
-            //game +=  player;
-            //game -=  player;
-            
            
-            
-            Deck deck = new Deck();
-
-            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
-
-            //List<Card> newlist = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            //foreach (Card card in newlist)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-
-
-            List <int> numberlist = new List<int>() { 1, 2, 3, 535, 342, 23 };
-            int sum2 = numberlist.Where(x => x > 20).Sum();
-            int sum = numberlist.Sum(x => x+5);
-            int max = numberlist.Max();
-            Console.WriteLine(sum);
-            Console.WriteLine(max);
-            Console.WriteLine(sum2);
-
-
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //   Console.WriteLine(card.Face + " of " + card.Suit);
-
-            //}
-            //Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Welcome to the Gand Hotel and Casino. Lets start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isAcivelyPlaying = true;
+                while (player.isAcivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino, Bye for now.");
             Console.ReadLine();
-          
 
         }
 

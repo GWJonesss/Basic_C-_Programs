@@ -1,0 +1,8 @@
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\bin\Debug\The_Time_Travel_Program.exe.config
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\bin\Debug\The_Time_Travel_Program.exe
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\bin\Debug\The_Time_Travel_Program.pdb
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\obj\Debug\The_Time_Travel_Program.csproj.AssemblyReference.cache
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\obj\Debug\The_Time_Travel_Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\obj\Debug\The_Time_Travel_Program.csproj.CoreCompileInputs.cache
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\obj\Debug\The_Time_Travel_Program.exe
+C:\Users\16083\School\Basic_C-_Programs\The_Time_Travel_Program\The_Time_Travel_Program\obj\Debug\The_Time_Travel_Program.pdb

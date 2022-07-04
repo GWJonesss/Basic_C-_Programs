@@ -28,12 +28,8 @@ namespace TwentyOne
 
         public void Shuffle(int times = 1)
         {
-
-
-            
             for (int i = 0; i < times; i++)
             {
-                
                 List<Card> TempList = new List<Card>();
                 Random random = new Random();
 
